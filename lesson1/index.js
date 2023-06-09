@@ -16,4 +16,4 @@ for (let i = 0; i < 4; i++) {
 
 let name = 0;
 
-let age = "35";
+let age = 35;
